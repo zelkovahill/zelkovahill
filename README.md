@@ -1,4 +1,4 @@
-### Hi there 👋
+# 코딩 공부 하는 장우민 입니다
 
 <!--
 **zelkovahill/zelkovahill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
