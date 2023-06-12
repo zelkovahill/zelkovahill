@@ -1,8 +1,4 @@
- ![common](https://user-images.githubusercontent.com/127643365/239736964-a7ecb1ae-0886-429d-993c-d69fab5e5134.jpeg)
- 
-
-
-# 밥 잘 먹는 장우민 입니다
+![common](https://github.com/zelkovahill/zelkovahill/assets/127643365/a2188e9c-8845-4515-aae3-95b67aaed6a2)
   
   
 
