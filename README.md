@@ -1,5 +1,3 @@
-![common](https://github.com/zelkovahill/zelkovahill/assets/127643365/a2188e9c-8845-4515-aae3-95b67aaed6a2)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zelkovahill&show_icons=true&theme=radical)
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelkovahill&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
