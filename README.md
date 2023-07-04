@@ -1,5 +1,5 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zelkovahill)](https://solved.ac/zelkovahill)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelkovahill&layout=Demo&theme=tokyonight)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zelkovahill)](https://solved.ac/zelkovahill) 심해 잠수사 장우민 입니다
+
 
 
 
