@@ -1,4 +1,3 @@
-## 즐겨찾기
 ### https://swexpertacademy.com/main/main.do
 ### https://school.programmers.co.kr/
 ### https://codeforces.com/
